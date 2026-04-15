@@ -1,0 +1,7 @@
+Lost/Found,ItemType,Location,Time,Description,ImagePath,USN
+Lost,Phone,Canteen,29-03-2026 10:30,Black Samsung phone with cracked screen,static/phone.jpg,1BI23AI017
+Found,Wallet,Library,29-03-2026 11:00,Found a wallet made of black leather,static/wallet.png,1BI23AI020
+Lost,Bottle,Classroom,29-03-2026 12:15,Blue water bottle with stickers,static/bottle.png,1BI23AI023
+Found,Charger,Lab,29-03-2026 13:00,White iPhone charger left on desk,static/charger.png,1BI23AI026
+Lost,Book,Classroom,29-03-2026 14:00,Data Science textbook with notes inside,,1BI23AI056
+lost,keys,canteen,12-04-2026 13:41,i lost the item near the billing counter ,,1BI23AI028
